@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="CoreDataAutoMigrationErrorExample" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="13F34" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="EntityA" representedClassName="EntityA" syncable="YES">
+        <attribute name="attr_a_1" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="EntityB" representedClassName="EntityB" syncable="YES">
+        <attribute name="attr_b_1" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <configuration name="EntityA_Store">
+        <memberEntity name="EntityA"/>
+    </configuration>
+    <configuration name="EntityB_Store">
+        <memberEntity name="EntityB"/>
+    </configuration>
+    <elements>
+        <element name="EntityA" positionX="-54" positionY="-9" width="128" height="60"/>
+        <element name="EntityB" positionX="-36" positionY="18" width="128" height="60"/>
+    </elements>
+</model>
