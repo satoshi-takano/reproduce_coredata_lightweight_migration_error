@@ -1,1 +1,1 @@
-http://qiita.com/drafts/665013abb7fbd2b35234
+http://qiita.com/ikke/items/665013abb7fbd2b35234
